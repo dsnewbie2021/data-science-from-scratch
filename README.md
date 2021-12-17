@@ -44,11 +44,13 @@ The data is in a [spreadsheet](https://docs.google.com/spreadsheets/d/1mjGp94ehf
 16. [Logistic Regression](https://github.com/dsnewbie2021/data-science-from-scratch/blob/master/code-python3/logistic_regression.py)
 17. [Decision Trees](https://github.com/dsnewbie2021/data-science-from-scratch/blob/master/code-python3/decision_trees.py)
 18. [Neural Networks](https://github.com/dsnewbie2021/data-science-from-scratch/blob/master/code-python3/neural_networks.py)
-19. [Clustering](https://github.com/dsnewbie2021/data-science-from-scratch/blob/master/code-python3/clustering.py)
-20. [Natural Language Processing](https://github.com/dsnewbie2021/data-science-from-scratch/blob/master/code-python3/natural_language_processing.py)
-21. [Network Analysis](https://github.com/dsnewbie2021/data-science-from-scratch/blob/master/code-python3/network_analysis.py)
-22. [Recommender Systems](https://github.com/dsnewbie2021/data-science-from-scratch/blob/master/code-python3/recommender_systems.py)
-23. [Databases and SQL](https://github.com/dsnewbie2021/data-science-from-scratch/blob/master/code-python3/databases.py)
-24. [MapReduce](https://github.com/dsnewbie2021/data-science-from-scratch/blob/master/code-python3/mapreduce.py)
-25. Go Forth And Do Data Science
+19. Deep Learning
+20. [Clustering](https://github.com/dsnewbie2021/data-science-from-scratch/blob/master/code-python3/clustering.py)
+21. [Natural Language Processing](https://github.com/dsnewbie2021/data-science-from-scratch/blob/master/code-python3/natural_language_processing.py)
+22. [Network Analysis](https://github.com/dsnewbie2021/data-science-from-scratch/blob/master/code-python3/network_analysis.py)
+23. [Recommender Systems](https://github.com/dsnewbie2021/data-science-from-scratch/blob/master/code-python3/recommender_systems.py)
+24. [Databases and SQL](https://github.com/dsnewbie2021/data-science-from-scratch/blob/master/code-python3/databases.py)
+25. [MapReduce](https://github.com/dsnewbie2021/data-science-from-scratch/blob/master/code-python3/mapreduce.py)
+26. Data Ethics
+27. Go Forth and Do Data Science!
 
