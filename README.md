@@ -1,7 +1,7 @@
 Data Science from Scratch
 =========================
 
-Here's all the code and examples from my book __[Data Science from Scratch](http://joelgrus.com/2015/04/26/data-science-from-scratch-first-principles-with-python/)__. The `code` directory contains Python 2.7 versions, and the `code-python3` direction contains the Python 3 equivalents. (I tested them in 3.5, but they should work in any 3.x.)
+Here's all the code and examples from the book __[Data Science from Scratch](http://joelgrus.com/2015/04/26/data-science-from-scratch-first-principles-with-python/)__ by Joel Grus. The `code` directory contains Python 2.7 versions, and the `code-python3` direction contains the Python 3 equivalents. (I tested them in 3.5, but they should work in any 3.x.)
 
 Each can be imported as a module, for example (after you cd into the /code directory):
 
@@ -19,7 +19,7 @@ Or can be run from the command line to get a demo of what it does (and to execut
 python recommender_systems.py
 ```  
 
-Additionally, I've collected all the [links](https://github.com/joelgrus/data-science-from-scratch/blob/master/links.md) from the book.
+Additionally, all the [links](https://github.com/joelgrus/data-science-from-scratch/blob/master/links.md) from the book are also provided.
 
 And, by popular demand, I made an index of functions defined in the book, by chapter and page number. 
 The data is in a [spreadsheet](https://docs.google.com/spreadsheets/d/1mjGp94ehfxWOEaAFJsPiHqIeOioPH1vN1PdOE6v1az8/edit?usp=sharing), or I also made a toy (experimental) [searchable webapp](http://joelgrus.com/experiments/function-index/).
@@ -51,3 +51,5 @@ The data is in a [spreadsheet](https://docs.google.com/spreadsheets/d/1mjGp94ehf
 23. [Databases and SQL](https://github.com/joelgrus/data-science-from-scratch/blob/master/code/databases.py)
 24. [MapReduce](https://github.com/joelgrus/data-science-from-scratch/blob/master/code/mapreduce.py)
 25. Go Forth And Do Data Science
+Note:
+The links are not working properly, need to correct.
