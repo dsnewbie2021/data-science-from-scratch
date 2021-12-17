@@ -26,7 +26,7 @@ The data is in a [spreadsheet](https://docs.google.com/spreadsheets/d/1mjGp94ehf
 
 ## Table of Contents
 
-1. Introduction
+1. [Introduction](https://github.com/dsnewbie2021/data-science-from-scratch/blob/master/code-python3/introduction.py)
 2. A Crash Course in Python
 3. [Visualizing Data](https://github.com/dsnewbie2021/data-science-from-scratch/blob/master/code-python3/visualizing_data.py)
 4. [Linear Algebra](https://github.com/dsnewbie2021/data-science-from-scratch/blob/master/code-python3/linear_algebra.py)
